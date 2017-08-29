@@ -10,4 +10,8 @@ public class StudentController
     {
         System.out.println( "Hello dlroW!" );
     }
+    
+    private static void showMessage() {
+    	System.out.println("message...!");
+    }
 }
