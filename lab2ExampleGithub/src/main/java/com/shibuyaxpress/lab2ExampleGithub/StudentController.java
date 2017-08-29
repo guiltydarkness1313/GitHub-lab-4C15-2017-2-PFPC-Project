@@ -8,7 +8,7 @@ public class StudentController
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello dlroW!" );
+        System.out.println( "Hello Mario dlroW!" );
         //v:<
     }
     
