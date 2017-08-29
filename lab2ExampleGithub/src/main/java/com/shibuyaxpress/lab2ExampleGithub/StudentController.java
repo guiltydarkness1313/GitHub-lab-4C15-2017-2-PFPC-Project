@@ -9,7 +9,7 @@ public class StudentController
     public static void main( String[] args )
     {
         System.out.println( "Hello dlroW!" );
-        //v:|>
+        //v:<
     }
     
     private static void showMessage() {
